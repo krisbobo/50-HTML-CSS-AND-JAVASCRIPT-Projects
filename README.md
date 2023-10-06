@@ -1,32 +1,9 @@
-<a name="readme-top"></a>
-
-<!-- TABLE OF CONTENTS -->
-
-# 📗 Table of Contents
-
-- [📗 Table of Contents](#-table-of-contents)
-- [📖 \[\] ](#--)
-  - [🛠 Built With ](#-built-with-)
-    - [Tech Stack ](#tech-stack-)
-    - [Key Features ](#key-features-)
-  - [🚀 Live Demo and other links ](#-live-demo-and-other-links-)
-  - [💻 Getting Started ](#-getting-started-)
-    - [Setup](#setup)
-    - [Install](#install)
-    - [Usage](#usage)
-    - [Run tests](#run-tests)
-  - [👥 Authors ](#-authors-)
-  - [🔭 Future Features ](#-future-features-)
-  - [🤝 Contributing ](#-contributing-)
-  - [⭐️ Show your support ](#️-show-your-support-)
-  - [🙏 Acknowledgments ](#-acknowledgments-)
-  - [📝 License ](#-license-)
 
 <!-- PROJECT DESCRIPTION -->
 
 # 📖 [50-HTML-CSS-JS-Projects] <a name="about-project"></a>
 
->
+> This features a collection of 50 HTML, CSS and JavaScript projects.
 
 ## 🛠 Built With <a name="built-with"></a>
 
@@ -40,23 +17,9 @@ The major tools and languages used are:
 
 > The following tech stack were used
 
-<details>
-  <summary>JavaScript</summary>
-  <ul>
-    <li><a href="https://reactjs.org/">JavaScript</a></li>
-  </ul>
-</details>
-
-<!-- Features -->
-
-### Key Features <a name="key-features"></a>
-
-> The web app has the following key features:
-
-- **[]**
-- **[]**
-
-<p align="right">[<a href="#readme-top">Back to Top</a>]</p>
+- HTML
+- CSS
+- JavaScript
 
 <!-- LIVE DEMO -->
 
@@ -82,33 +45,7 @@ The major tools and languages used are:
 
 Clone this repository to your desired folder:
 
-> 
-
-### Install
-
-Install this project with:
-
-```sh
-  cd my-project
-  npm install or npm i
-```
--
-
-### Usage
-
-To run the project, execute the following command:
-
-```sh
- npm run build
-```
-
-### Run tests
-
-To run tests, run the following command:
-
-```sh
- npm test or jest test
-```
+> git clone git@github.com:krisbobo/50-HTML-CSS-AND-JAVASCRIPT-Projects.git
 
 <p align="right">[<a href="#readme-top">Back to Top</a>]</p>
 
@@ -120,20 +57,7 @@ To run tests, run the following command:
 
 - GitHub: [krisbobo](https://github.com/krisbobo)
 - Twitter: [ChrisboboSys](https://twitter.com/ChrisboboSys)
-- LinkedIn: [kiyong-christian](https://linkedin.com/in/kiyong-christian)
-
-<p align="right">[<a href="#readme-top">Back to Top</a>]</p>
-
-<!-- FUTURE FEATURES -->
-
-## 🔭 Future Features <a name="future-features"></a>
-
-> The following two features will be added to this project;
-
-- [ ] **[]**
-- [ ] **[]**
-
-<p align="right">[<a href="#readme-top">Back to Top</a>]</p>
+- LinkedIn: [kiyong-christian](https://linkedin.com/in/christian-kiyong)
 
 <!-- CONTRIBUTING -->
 
@@ -143,15 +67,11 @@ Contributions, issues, and feature requests are welcome.
 
 Feel free to check the [issues page](../../issues/).
 
-<p align="right">[<a href="#readme-top">Back to Top</a>]</p>
-
 <!-- SUPPORT -->
 
 ## ⭐️ Show your support <a name="support"></a>
 
 If you like this project, don't forget give a ⭐️ or buy me a coffee ☕️
-
-<p align="right">[<a href="#readme-top">Back to Top</a>]</p>
 
 <!-- ACKNOWLEDGEMENTS -->
 
@@ -159,12 +79,8 @@ If you like this project, don't forget give a ⭐️ or buy me a coffee ☕️
 
 I would like to thank all my collaborators on this project and the Microverse student community.
 
-<p align="right">[<a href="#readme-top">Back to Top</a>]</p>
-
 <!-- LICENSE -->
 
 ## 📝 License <a name="license"></a>
 
 This project is [MIT](./LICENSE) licensed.
-
-<p align="right">[<a href="#readme-top">Back to Top</a>]</p>
