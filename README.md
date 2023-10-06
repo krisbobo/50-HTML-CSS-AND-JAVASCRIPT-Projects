@@ -53,7 +53,7 @@ Clone this repository to your desired folder:
 
 ## 👥 Authors <a name="authors"></a>
 
-👤 **Kiyong Bohbo**
+👤 **Christian Kiyong**
 
 - GitHub: [krisbobo](https://github.com/krisbobo)
 - Twitter: [ChrisboboSys](https://twitter.com/ChrisboboSys)
