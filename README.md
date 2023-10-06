@@ -1,21 +1,13 @@
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 [50-HTML-CSS-JS-Projects] <a name="about-project"></a>
+# 📖 [50-HTML-CSS-JS-Projects]
 
 > This features a collection of 50 HTML, CSS and JavaScript projects.
 
-## 🛠 Built With <a name="built-with"></a>
+## 🛠 Built With
 
 The major tools and languages used are:
-
-- HTML
-- CSS
-- JavaScript
-<!-- Features -->
-### Tech Stack <a name="tech-stack"></a>
-
-> The following tech stack were used
 
 - HTML
 - CSS
@@ -23,45 +15,59 @@ The major tools and languages used are:
 
 <!-- LIVE DEMO -->
 
-## 🚀 Live Demo and other links <a name="live-demo"></a>
+## 🚀 Live Demo and other links
 
 > Here, we will paste links as per the submission instructions.
 
 - [Live Demo Link not yet available]()
 
-<p align="right">[<a href="#readme-top">Back to Top</a>]</p>
-
 <!-- GETTING STARTED -->
 
-## 💻 Getting Started <a name="getting-started"></a>
+## Getting Started
 
-> In order to run this project you need:
+To get a local copy up and running, follow these simple example steps.
 
-- Node js installed on your computer
-- Npm Node package manager
-- Terminal
+## Prerequisites
 
-### Setup
+Before attempting to get a copy of this, you should know(have) how to do the following:
 
-Clone this repository to your desired folder:
+- How to use the command line interface(CLI)
 
-> git clone git@github.com:krisbobo/50-HTML-CSS-AND-JAVASCRIPT-Projects.git
+- Know how to navigate directories or folders at the CLI.
 
-<p align="right">[<a href="#readme-top">Back to Top</a>]</p>
+- Know how to get the URL(https/ssh) of a repository on GitHub.
+
+- You should have a code editor installed, preferably VsCode.
+
+## Setup
+
+- In desired folder or directory in the CLI, run the command:
+
+>                   git clone git@github.com:krisbobo/50-HTML-CSS-AND-JAVASCRIPT-Projects.git
+
+-Navigate into the cloned folder or repository by running the command:
+
+>                   cd <folder/name of the repository>
+
+- If VsCode is your default code editor, run:
+
+>                   code .
+
+- You are all setup!
 
 <!-- AUTHORS -->
 
-## 👥 Authors <a name="authors"></a>
+## 👥 Authors
 
 👤 **Christian Kiyong**
 
 - GitHub: [krisbobo](https://github.com/krisbobo)
 - Twitter: [ChrisboboSys](https://twitter.com/ChrisboboSys)
-- LinkedIn: [kiyong-christian](https://linkedin.com/in/christian-kiyong)
+- LinkedIn: [christian-kiyong](https://linkedin.com/in/christian-kiyong)
 
 <!-- CONTRIBUTING -->
 
-## 🤝 Contributing <a name="contributing"></a>
+## 🤝 Contributing
 
 Contributions, issues, and feature requests are welcome.
 
@@ -69,18 +75,18 @@ Feel free to check the [issues page](../../issues/).
 
 <!-- SUPPORT -->
 
-## ⭐️ Show your support <a name="support"></a>
+## ⭐️ Show your support
 
 If you like this project, don't forget give a ⭐️ or buy me a coffee ☕️
 
 <!-- ACKNOWLEDGEMENTS -->
 
-## 🙏 Acknowledgments <a name="acknowledgements"></a>
+## 🙏 Acknowledgments
 
-I would like to thank all my collaborators on this project and the Microverse student community.
+- [50 Projects in 50 Days - HTML, CSS & JavaScript](https://www.100jsprojects.com/projects)
 
 <!-- LICENSE -->
 
-## 📝 License <a name="license"></a>
+## 📝 License
 
 This project is [MIT](./LICENSE) licensed.
