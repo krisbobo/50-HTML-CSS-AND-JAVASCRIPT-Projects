@@ -77,7 +77,7 @@ Feel free to check the [issues page](../../issues/).
 
 ## ⭐️ Show your support
 
-If you like this project, don't forget give a ⭐️ or buy me a coffee ☕️
+If you like this project, don't forget to give a ⭐️ or buy me a coffee ☕️
 
 <!-- ACKNOWLEDGEMENTS -->
 
